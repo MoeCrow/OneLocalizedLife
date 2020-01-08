@@ -1,4 +1,5 @@
 # OneLocalizedLife
+=========Moved to Google Docs now=========
 A repo localizing one hour one life whole text of menus and objects
 
 Content's encoding should be UTF8
